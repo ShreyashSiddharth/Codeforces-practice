@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1603808520 source:c:\users\91963\desktop\codeforces submission attempts\zzxzx\main.cpp
+	<bits/stdc++.h>
+
+1597569876 c:\users\91963\desktop\codeforces submission attempts\zzxzx\queen.h
+
+1597569415 source:c:\users\91963\desktop\codeforces submission attempts\zzxzx\queen.cpp
+	"queen.h"
+	<iostream>
+

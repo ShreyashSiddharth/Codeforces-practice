@@ -1,0 +1,43 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+class node{
+public:
+    int data;
+    node*next;
+};
+
+// traversal code
+
+void printlist(node* n){
+    while(n != NULL){
+        cout<<n->data<<" ";
+        n = n->next;
+    }
+
+}
+int main(){
+node* head = NULL;
+node* second = NULL;
+node* third = NULL;
+
+head = new node();
+second = new node();
+third = new node();
+
+int a;
+cin>>a;
+head->data = a;
+head->next = second;
+cin>>a;
+second->data = a;
+second->next = third;
+cin>>a;
+third->data =  a;
+third->next = NULL;
+printlist(head);
+}
+
+
+

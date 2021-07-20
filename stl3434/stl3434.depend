@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1594755712 source:c:\users\91963\desktop\codeforces submission attempts\stl3434\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<map>
+	<string>
+

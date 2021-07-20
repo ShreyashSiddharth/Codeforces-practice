@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593513265 source:c:\users\91963\desktop\codeforces submission attempts\experimental spoj\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
